@@ -17,10 +17,10 @@
 https://SarahXYJ.github.io/pic-bed/<文件路径>
 ```
 
-例如 `images/example.jpg` 对应：
+测试图片 `images/test.svg`：
 
 ```text
-https://SarahXYJ.github.io/pic-bed/images/example.jpg
+https://SarahXYJ.github.io/pic-bed/images/test.svg
 ```
 
 ## PicGo 配置
